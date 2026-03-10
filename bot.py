@@ -14,9 +14,8 @@ TG_API         = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}"
 # Кошельки для отслеживания
 WALLETS = [
     "D8n8Dy6DWC9691mR4NroSA9TdxXBxDV6Rr639RapanS4",
-    # Добавляйте сюда ещё кошельки:
-    # "АДРЕС_КОШЕЛЬКА_2",
-    # "АДРЕС_КОШЕЛЬКА_3",
+    "36A6mEN5rYJdVTb6fMqVvG6ez8g2mTYdr1omWcQ1kDKG",
+    "3BLjRcxWGtR7WRshJ3hL25U3RjWr5Ud98wMcczQqk4Ei",
 ]
 
 # Фильтры сигналов
@@ -372,3 +371,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
