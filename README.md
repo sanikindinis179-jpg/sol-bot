@@ -32,7 +32,8 @@
 ```python
 WALLETS = [
     "D8n8Dy6DWC9691mR4NroSA9TdxXBxDV6Rr639RapanS4",
-    "ВАШ_ВТОРОЙ_КОШЕЛЁК",
+    "36A6mEN5rYJdVTb6fMqVvG6ez8g2mTYdr1omWcQ1kDKG",
+    "3BLjRcxWGtR7WRshJ3hL25U3RjWr5Ud98wMcczQqk4Ei",
 ]
 ```
 
